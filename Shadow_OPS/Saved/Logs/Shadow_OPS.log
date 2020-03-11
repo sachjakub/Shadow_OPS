@@ -3687,3 +3687,276 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.11-19.46.16:590][211]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8651.725 Y=-11063.012 Z=226.590] for [FirstPersonProjectile_C]
 [2020.03.11-19.46.16:862][227]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8652.151 Y=-11063.081 Z=226.584] for [FirstPersonProjectile_C]
 [2020.03.11-19.46.16:997][235]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8653.303 Y=-11067.212 Z=230.658] for [FirstPersonProjectile_C]
+[2020.03.11-19.47.27:051][428]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-19.47.27:051][428]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-19.47.27:051][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-19.47.27:051][428]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_def_map
+[2020.03.11-19.47.27:052][428]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-19.47.27:052][428]LogWorld: UWorld::CleanupWorld for def_map, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-19.47.27:053][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-19.47.27:065][428]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-19.47.27:082][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-19.47.27:130][428]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-19.47.27:135][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-19.47.27:146][428]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.03.11-19.47.27:175][429]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.03.11-19.47.34:906][856]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.11-19.47.37:070][960]Cmd: EDIT COPY
+[2020.03.11-19.47.39:138][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube105)
+[2020.03.11-19.47.39:925][ 80]Cmd: EDIT PASTE
+[2020.03.11-19.48.18:045][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.03.11-19.48.18:304][269]LogSavePackage: Moving '../../../../../../Users/kubik/Documents/GitHub/Shadow_OPS/Shadow_OPS/Saved/def_map_Auto86EC68055427E2716A425E2BC5697D643.tmp' to '../../../../../../Users/kubik/Documents/GitHub/Shadow_OPS/Shadow_OPS/Saved/Autosaves/Game/FirstPersonBP/Maps/def_map_Auto8.umap'
+[2020.03.11-19.48.18:307][269]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/def_map' took 0.305
+[2020.03.11-19.48.18:308][269]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.305
+[2020.03.11-19.49.13:120][903]Cmd: DELETE
+[2020.03.11-19.49.13:120][903]Cmd: ACTOR DELETE
+[2020.03.11-19.49.13:128][903]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.03.11-19.49.13:188][903]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.03.11-19.49.13:195][903]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2020.03.11-19.49.24:935][485]Cmd: EDIT COPY
+[2020.03.11-19.49.25:145][494]Cmd: EDIT PASTE
+[2020.03.11-19.49.27:275][593]Cmd: EDIT COPY
+[2020.03.11-19.49.27:515][603]Cmd: EDIT PASTE
+[2020.03.11-19.49.32:205][818]Cmd: EDIT COPY
+[2020.03.11-19.49.32:420][829]Cmd: EDIT PASTE
+[2020.03.11-19.49.39:152][137]Cmd: EDIT COPY
+[2020.03.11-19.49.39:381][146]Cmd: EDIT PASTE
+[2020.03.11-19.49.42:821][316]Cmd: EDIT COPY
+[2020.03.11-19.49.43:029][327]Cmd: EDIT PASTE
+[2020.03.11-19.49.44:285][385]Cmd: EDIT COPY
+[2020.03.11-19.49.44:491][396]Cmd: EDIT PASTE
+[2020.03.11-19.49.46:425][486]Cmd: EDIT COPY
+[2020.03.11-19.49.46:618][495]Cmd: EDIT PASTE
+[2020.03.11-19.49.48:072][563]Cmd: EDIT COPY
+[2020.03.11-19.49.48:245][570]Cmd: EDIT PASTE
+[2020.03.11-19.49.49:671][634]Cmd: EDIT COPY
+[2020.03.11-19.49.49:867][644]Cmd: EDIT PASTE
+[2020.03.11-19.49.51:509][716]Cmd: EDIT COPY
+[2020.03.11-19.49.51:751][726]Cmd: EDIT PASTE
+[2020.03.11-19.49.56:349][928]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2020.03.11-19.49.57:116][962]Cmd: EDIT COPY
+[2020.03.11-19.49.57:309][969]Cmd: EDIT PASTE
+[2020.03.11-19.49.59:521][ 70]Cmd: EDIT COPY
+[2020.03.11-19.49.59:714][ 77]Cmd: EDIT PASTE
+[2020.03.11-19.50.01:451][154]Cmd: EDIT COPY
+[2020.03.11-19.50.01:629][160]Cmd: EDIT PASTE
+[2020.03.11-19.50.06:560][372]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2020.03.11-19.50.07:634][417]Cmd: EDIT COPY
+[2020.03.11-19.50.07:817][424]Cmd: EDIT PASTE
+[2020.03.11-19.50.11:663][576]Cmd: EDIT COPY
+[2020.03.11-19.50.11:846][582]Cmd: EDIT PASTE
+[2020.03.11-19.50.13:132][636]Cmd: EDIT COPY
+[2020.03.11-19.50.13:302][643]Cmd: EDIT PASTE
+[2020.03.11-19.50.14:672][697]Cmd: EDIT COPY
+[2020.03.11-19.50.14:861][706]Cmd: EDIT PASTE
+[2020.03.11-19.50.16:370][766]Cmd: EDIT COPY
+[2020.03.11-19.50.16:552][775]Cmd: EDIT PASTE
+[2020.03.11-19.50.18:535][853]Cmd: EDIT COPY
+[2020.03.11-19.50.18:757][863]Cmd: EDIT PASTE
+[2020.03.11-19.50.20:613][934]Cmd: EDIT COPY
+[2020.03.11-19.50.20:790][941]Cmd: EDIT PASTE
+[2020.03.11-19.50.22:611][ 10]Cmd: EDIT COPY
+[2020.03.11-19.50.22:805][ 18]Cmd: EDIT PASTE
+[2020.03.11-19.50.28:245][210]Cmd: EDIT COPY
+[2020.03.11-19.50.28:447][218]Cmd: EDIT PASTE
+[2020.03.11-19.50.30:135][275]Cmd: EDIT COPY
+[2020.03.11-19.50.30:343][283]Cmd: EDIT PASTE
+[2020.03.11-19.50.36:088][484]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-19.50.36:102][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-19.50.36:102][484]PIE: New page: PIE session: def_map (11. 3. 2020 21:50:36)
+[2020.03.11-19.50.36:103][484]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_def_map
+[2020.03.11-19.50.36:209][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.105812s)
+[2020.03.11-19.50.36:211][484]LogAIModule: Creating AISystem for world def_map
+[2020.03.11-19.50.36:212][484]LogPlayLevel: PIE: World Init took: (0.002054s)
+[2020.03.11-19.50.36:212][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/def_map.def_map to /Game/FirstPersonBP/Maps/UEDPIE_0_def_map.def_map (0.108277s)
+[2020.03.11-19.50.36:258][484]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2020.03.11-19.50.36:267][484]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-19.50.36:267][484]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-19.50.36:267][484]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.11-19.50.36:267][484]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.11-19.50.36:267][484]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.11-19.50.36:267][484]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-19.50.36:267][484]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-19.50.36:267][484]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-19.50.36:268][484]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-19.50.36:268][484]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-19.50.36:284][484]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-19.50.36:284][484]LogAudioMixer: Display: Name: Sluchátko u sluchátek s mikrofonem (HyperX Virtual Surround Sound)
+[2020.03.11-19.50.36:284][484]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-19.50.36:284][484]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-19.50.36:284][484]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-19.50.36:284][484]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-19.50.36:284][484]LogAudioMixer: Display: Channel Order:
+[2020.03.11-19.50.36:284][484]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-19.50.36:284][484]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-19.50.36:299][484]LogAudioMixer: Display: Using Audio Device Sluchátko u sluchátek s mikrofonem (HyperX Virtual Surround Sound)
+[2020.03.11-19.50.36:304][484]LogInit: FAudioDevice initialized.
+[2020.03.11-19.50.36:317][484]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.11-19.50.36:328][484]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_def_map.def_map up for play (max tick rate 60) at 2020.03.11-20.50.36
+[2020.03.11-19.50.36:328][484]LogWorld: Bringing up level for play took: 0.010562
+[2020.03.11-19.50.36:329][484]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.03.11-19.50.36:333][484]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_def_map -0,741
+[2020.03.11-19.51.59:777][441]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-19.51.59:777][441]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-19.51.59:778][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-19.51.59:778][441]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_def_map
+[2020.03.11-19.51.59:779][441]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-19.51.59:779][441]LogWorld: UWorld::CleanupWorld for def_map, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-19.51.59:782][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-19.51.59:813][441]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-19.51.59:819][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-19.51.59:868][441]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-19.51.59:874][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-19.51.59:884][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.03.11-19.51.59:912][442]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.03.11-19.53.40:938][429]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2020.03.11-19.53.49:822][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube55)
+[2020.03.11-19.53.50:917][889]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight31)
+[2020.03.11-19.54.08:541][721]Cmd: EDIT COPY
+[2020.03.11-19.54.08:743][732]Cmd: EDIT PASTE
+[2020.03.11-19.54.10:174][800]Cmd: EDIT COPY
+[2020.03.11-19.54.10:390][810]Cmd: EDIT PASTE
+[2020.03.11-19.54.11:635][865]Cmd: EDIT COPY
+[2020.03.11-19.54.11:829][874]Cmd: EDIT PASTE
+[2020.03.11-19.54.12:850][920]Cmd: EDIT COPY
+[2020.03.11-19.54.13:030][928]Cmd: EDIT PASTE
+[2020.03.11-19.54.18:707][189]Cmd: EDIT COPY
+[2020.03.11-19.54.18:900][199]Cmd: EDIT PASTE
+[2020.03.11-19.54.20:729][285]Cmd: EDIT COPY
+[2020.03.11-19.54.20:924][295]Cmd: EDIT PASTE
+[2020.03.11-19.54.22:660][377]Cmd: EDIT COPY
+[2020.03.11-19.54.22:894][388]Cmd: EDIT PASTE
+[2020.03.11-19.54.27:934][616]Cmd: EDIT COPY
+[2020.03.11-19.54.28:129][625]Cmd: EDIT PASTE
+[2020.03.11-19.55.56:231][788]Cmd: EDIT COPY
+[2020.03.11-19.55.56:415][796]Cmd: EDIT PASTE
+[2020.03.11-19.55.57:852][861]Cmd: EDIT COPY
+[2020.03.11-19.55.58:054][871]Cmd: EDIT PASTE
+[2020.03.11-19.55.59:206][923]Cmd: EDIT COPY
+[2020.03.11-19.55.59:409][933]Cmd: EDIT PASTE
+[2020.03.11-19.56.01:825][ 45]Cmd: EDIT COPY
+[2020.03.11-19.56.02:029][ 53]Cmd: EDIT PASTE
+[2020.03.11-19.56.04:286][153]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-19.56.04:303][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-19.56.04:303][153]PIE: New page: PIE session: def_map (11. 3. 2020 21:56:04)
+[2020.03.11-19.56.04:305][153]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_def_map
+[2020.03.11-19.56.04:405][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100176s)
+[2020.03.11-19.56.04:407][153]LogAIModule: Creating AISystem for world def_map
+[2020.03.11-19.56.04:409][153]LogPlayLevel: PIE: World Init took: (0.002982s)
+[2020.03.11-19.56.04:409][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/def_map.def_map to /Game/FirstPersonBP/Maps/UEDPIE_0_def_map.def_map (0.103959s)
+[2020.03.11-19.56.04:453][153]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.03.11-19.56.04:466][153]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-19.56.04:466][153]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-19.56.04:466][153]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.11-19.56.04:466][153]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.11-19.56.04:466][153]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.11-19.56.04:466][153]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-19.56.04:466][153]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-19.56.04:467][153]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-19.56.04:468][153]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-19.56.04:468][153]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-19.56.04:489][153]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-19.56.04:489][153]LogAudioMixer: Display: Name: Sluchátko u sluchátek s mikrofonem (HyperX Virtual Surround Sound)
+[2020.03.11-19.56.04:489][153]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-19.56.04:489][153]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-19.56.04:489][153]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-19.56.04:489][153]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-19.56.04:489][153]LogAudioMixer: Display: Channel Order:
+[2020.03.11-19.56.04:489][153]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-19.56.04:489][153]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-19.56.04:511][153]LogAudioMixer: Display: Using Audio Device Sluchátko u sluchátek s mikrofonem (HyperX Virtual Surround Sound)
+[2020.03.11-19.56.04:514][153]LogInit: FAudioDevice initialized.
+[2020.03.11-19.56.04:528][153]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.11-19.56.04:540][153]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_def_map.def_map up for play (max tick rate 60) at 2020.03.11-20.56.04
+[2020.03.11-19.56.04:541][153]LogWorld: Bringing up level for play took: 0.012074
+[2020.03.11-19.56.04:541][153]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.03.11-19.56.04:546][153]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_def_map -0,527
+[2020.03.11-19.57.07:960][504]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-19.57.07:961][504]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-19.57.07:963][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-19.57.07:963][504]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_def_map
+[2020.03.11-19.57.07:964][504]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-19.57.07:964][504]LogWorld: UWorld::CleanupWorld for def_map, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-19.57.07:969][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-19.57.07:985][504]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-19.57.07:999][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-19.57.08:049][504]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-19.57.08:053][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-19.57.08:063][504]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.03.11-19.57.08:096][505]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.03.11-19.57.22:074][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube48)
+[2020.03.11-19.57.23:058][326]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight2)
+[2020.03.11-19.57.23:939][369]Cmd: DELETE
+[2020.03.11-19.57.23:939][369]Cmd: ACTOR DELETE
+[2020.03.11-19.57.23:948][369]LogEditorActor: Deleted Actor: RectLight
+[2020.03.11-19.57.23:997][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.03.11-19.57.23:999][369]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2020.03.11-19.57.24:794][414]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight4)
+[2020.03.11-19.57.24:969][420]Cmd: DELETE
+[2020.03.11-19.57.24:969][420]Cmd: ACTOR DELETE
+[2020.03.11-19.57.24:980][420]LogEditorActor: Deleted Actor: RectLight
+[2020.03.11-19.57.25:030][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.03.11-19.57.25:031][420]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2020.03.11-19.57.45:426][595]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight10)
+[2020.03.11-19.57.48:562][731]Cmd: DELETE
+[2020.03.11-19.57.48:562][731]Cmd: ACTOR DELETE
+[2020.03.11-19.57.48:577][731]LogEditorActor: Deleted Actor: SpotLight
+[2020.03.11-19.57.48:627][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.03.11-19.57.48:629][731]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2020.03.11-19.57.54:062][ 53]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight9)
+[2020.03.11-19.57.54:326][ 64]Cmd: DELETE
+[2020.03.11-19.57.54:326][ 64]Cmd: ACTOR DELETE
+[2020.03.11-19.57.54:341][ 64]LogEditorActor: Deleted Actor: SpotLight
+[2020.03.11-19.57.54:383][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.03.11-19.57.54:385][ 64]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2020.03.11-19.57.55:015][100]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight8)
+[2020.03.11-19.57.55:178][106]Cmd: DELETE
+[2020.03.11-19.57.55:178][106]Cmd: ACTOR DELETE
+[2020.03.11-19.57.55:187][106]LogEditorActor: Deleted Actor: SpotLight
+[2020.03.11-19.57.55:238][106]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.03.11-19.57.55:239][106]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2020.03.11-19.57.55:901][144]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight7)
+[2020.03.11-19.57.56:071][150]Cmd: DELETE
+[2020.03.11-19.57.56:071][150]Cmd: ACTOR DELETE
+[2020.03.11-19.57.56:081][150]LogEditorActor: Deleted Actor: SpotLight
+[2020.03.11-19.57.56:123][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.03.11-19.57.56:124][150]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2020.03.11-19.57.56:670][182]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight6)
+[2020.03.11-19.57.56:749][183]Cmd: DELETE
+[2020.03.11-19.57.56:749][183]Cmd: ACTOR DELETE
+[2020.03.11-19.57.56:756][183]LogEditorActor: Deleted Actor: SpotLight
+[2020.03.11-19.57.56:807][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.03.11-19.57.56:810][183]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2020.03.11-19.57.59:196][298]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2020.03.11-19.57.59:808][329]Cmd: DELETE
+[2020.03.11-19.57.59:808][329]Cmd: ACTOR DELETE
+[2020.03.11-19.57.59:817][329]LogEditorActor: Deleted Actor: SpotLight
+[2020.03.11-19.57.59:870][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.03.11-19.57.59:873][329]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2020.03.11-19.58.00:255][350]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2020.03.11-19.58.00:351][351]Cmd: DELETE
+[2020.03.11-19.58.00:351][351]Cmd: ACTOR DELETE
+[2020.03.11-19.58.00:363][351]LogEditorActor: Deleted Actor: SpotLight
+[2020.03.11-19.58.00:409][351]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.03.11-19.58.00:411][351]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2020.03.11-19.58.00:837][374]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2020.03.11-19.58.00:893][374]Cmd: DELETE
+[2020.03.11-19.58.00:893][374]Cmd: ACTOR DELETE
+[2020.03.11-19.58.00:902][374]LogEditorActor: Deleted Actor: SpotLight
+[2020.03.11-19.58.00:948][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.03.11-19.58.00:949][374]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2020.03.11-19.58.01:386][399]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2020.03.11-19.58.01:432][399]Cmd: DELETE
+[2020.03.11-19.58.01:432][399]Cmd: ACTOR DELETE
+[2020.03.11-19.58.01:444][399]LogEditorActor: Deleted Actor: SpotLight
+[2020.03.11-19.58.01:485][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.03.11-19.58.01:486][399]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2020.03.11-19.58.09:171][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube58)
+[2020.03.11-19.58.16:344][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube71)
+[2020.03.11-19.58.19:937][282]LogEditorViewport: Clicking on Actor (LMB): BPLamp_C (BPLamp4)
+[2020.03.11-19.58.51:010][841]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.03.11-19.58.51:259][841]LogSavePackage: Moving '../../../../../../Users/kubik/Documents/GitHub/Shadow_OPS/Shadow_OPS/Saved/def_map2BC453764B65038CA5A543B5273CFDC4.tmp' to '../../../../../../Users/kubik/Documents/GitHub/Shadow_OPS/Shadow_OPS/Content/FirstPersonBP/Maps/def_map.umap'
+[2020.03.11-19.58.51:757][841]LogSavePackage: Moving '../../../../../../Users/kubik/Documents/GitHub/Shadow_OPS/Shadow_OPS/Saved/def_map_BuiltDataAA342D16402D2ED5A7EA419D90661FE7.tmp' to '../../../../../../Users/kubik/Documents/GitHub/Shadow_OPS/Shadow_OPS/Content/FirstPersonBP/Maps/def_map_BuiltData.uasset'
+[2020.03.11-19.58.51:784][841]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.11-19.58.51:784][841]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/def_map.def_map
+[2020.03.11-19.58.51:784][841]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/def_map_BuiltData.def_map_BuiltData
