@@ -3960,3 +3960,105 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.11-19.58.51:784][841]AssetCheck: New page: Asset Save: multiple assets
 [2020.03.11-19.58.51:784][841]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/def_map.def_map
 [2020.03.11-19.58.51:784][841]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/def_map_BuiltData.def_map_BuiltData
+[2020.03.11-20.00.04:630][614]Cmd: EDIT COPY
+[2020.03.11-20.00.05:060][633]Cmd: EDIT PASTE
+[2020.03.11-20.00.17:025][206]Cmd: TRANSACTION UNDO
+[2020.03.11-20.00.17:026][206]LogEditorTransaction: Undo Move Actors
+[2020.03.11-20.00.21:577][395]LogEditorViewport: Clicking on Actor (LMB): BPLamp_C (BPLamp5)
+[2020.03.11-20.00.26:074][604]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2020.03.11-20.00.26:324][604]LogSavePackage: Moving '../../../../../../Users/kubik/Documents/GitHub/Shadow_OPS/Shadow_OPS/Saved/def_map7996509F4DF409CB128081B4B8042112.tmp' to '../../../../../../Users/kubik/Documents/GitHub/Shadow_OPS/Shadow_OPS/Content/FirstPersonBP/Maps/def_map.umap'
+[2020.03.11-20.00.26:560][604]LogSavePackage: Moving '../../../../../../Users/kubik/Documents/GitHub/Shadow_OPS/Shadow_OPS/Saved/def_map_BuiltDataD9D119CF4B97984508349AB84270E929.tmp' to '../../../../../../Users/kubik/Documents/GitHub/Shadow_OPS/Shadow_OPS/Content/FirstPersonBP/Maps/def_map_BuiltData.uasset'
+[2020.03.11-20.00.26:580][604]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.11-20.00.26:581][604]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/def_map.def_map
+[2020.03.11-20.00.26:581][604]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/def_map_BuiltData.def_map_BuiltData
+[2020.03.11-20.01.51:265][973]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-20.01.51:280][973]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-20.01.51:281][973]PIE: New page: PIE session: def_map (11. 3. 2020 22:01:51)
+[2020.03.11-20.01.51:281][973]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_def_map
+[2020.03.11-20.01.51:394][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.112659s)
+[2020.03.11-20.01.51:395][973]LogAIModule: Creating AISystem for world def_map
+[2020.03.11-20.01.51:395][973]LogPlayLevel: PIE: World Init took: (0.001767s)
+[2020.03.11-20.01.51:397][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/def_map.def_map to /Game/FirstPersonBP/Maps/UEDPIE_0_def_map.def_map (0.114826s)
+[2020.03.11-20.01.51:444][973]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.03.11-20.01.51:449][973]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-20.01.51:449][973]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-20.01.51:449][973]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.11-20.01.51:449][973]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.11-20.01.51:449][973]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.11-20.01.51:449][973]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-20.01.51:449][973]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-20.01.51:449][973]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-20.01.51:449][973]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-20.01.51:449][973]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-20.01.51:467][973]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-20.01.51:467][973]LogAudioMixer: Display: Name: Sluchátko u sluchátek s mikrofonem (HyperX Virtual Surround Sound)
+[2020.03.11-20.01.51:467][973]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-20.01.51:468][973]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-20.01.51:468][973]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-20.01.51:468][973]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-20.01.51:468][973]LogAudioMixer: Display: Channel Order:
+[2020.03.11-20.01.51:468][973]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-20.01.51:468][973]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-20.01.51:484][973]LogAudioMixer: Display: Using Audio Device Sluchátko u sluchátek s mikrofonem (HyperX Virtual Surround Sound)
+[2020.03.11-20.01.51:488][973]LogInit: FAudioDevice initialized.
+[2020.03.11-20.01.51:499][973]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.11-20.01.51:513][973]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_def_map.def_map up for play (max tick rate 60) at 2020.03.11-21.01.51
+[2020.03.11-20.01.51:514][973]LogWorld: Bringing up level for play took: 0.011897
+[2020.03.11-20.01.51:514][973]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.03.11-20.01.51:518][973]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_def_map 0,445
+[2020.03.11-20.02.25:314][560]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-20.02.25:314][560]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-20.02.25:315][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-20.02.25:315][560]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_def_map
+[2020.03.11-20.02.25:315][560]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-20.02.25:315][560]LogWorld: UWorld::CleanupWorld for def_map, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-20.02.25:319][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-20.02.25:332][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-20.02.25:346][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-20.02.25:389][560]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-20.02.25:392][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-20.02.25:404][560]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2020.03.11-20.02.25:431][561]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.03.11-20.02.27:739][694]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube59)
+[2020.03.11-20.02.32:081][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.03.11-20.02.32:316][899]LogSavePackage: Moving '../../../../../../Users/kubik/Documents/GitHub/Shadow_OPS/Shadow_OPS/Saved/def_mapBEEFC40F4BD957BB113E80AE9D159D4A.tmp' to '../../../../../../Users/kubik/Documents/GitHub/Shadow_OPS/Shadow_OPS/Content/FirstPersonBP/Maps/def_map.umap'
+[2020.03.11-20.02.32:536][899]LogSavePackage: Moving '../../../../../../Users/kubik/Documents/GitHub/Shadow_OPS/Shadow_OPS/Saved/def_map_BuiltData28974AA24EFD5A476C0A9796047309FD.tmp' to '../../../../../../Users/kubik/Documents/GitHub/Shadow_OPS/Shadow_OPS/Content/FirstPersonBP/Maps/def_map_BuiltData.uasset'
+[2020.03.11-20.02.32:563][899]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.11-20.02.32:563][899]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/def_map.def_map
+[2020.03.11-20.02.32:563][899]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/def_map_BuiltData.def_map_BuiltData
+[2020.03.11-20.05.36:409][432]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube70)
+[2020.03.11-20.05.37:113][454]LogEditorViewport: Clicking on Actor (LMB): BPLamp_C (BPLamp7)
+[2020.03.11-20.05.37:907][496]Cmd: EDIT COPY
+[2020.03.11-20.05.38:095][506]Cmd: EDIT PASTE
+[2020.03.11-20.05.51:966][198]LogEditorViewport: Clicking on Actor (LMB): BPLamp_C (BPLamp7)
+[2020.03.11-20.05.56:538][424]LogEditorViewport: Clicking on Actor (LMB): BPLamp_C (BPLamp8)
+[2020.03.11-20.05.59:948][600]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.03.11-20.06.00:202][600]LogSavePackage: Moving '../../../../../../Users/kubik/Documents/GitHub/Shadow_OPS/Shadow_OPS/Saved/def_mapFEB8F6BF4CAF782D63C5609ADD449A02.tmp' to '../../../../../../Users/kubik/Documents/GitHub/Shadow_OPS/Shadow_OPS/Content/FirstPersonBP/Maps/def_map.umap'
+[2020.03.11-20.06.00:440][600]LogSavePackage: Moving '../../../../../../Users/kubik/Documents/GitHub/Shadow_OPS/Shadow_OPS/Saved/def_map_BuiltData79E8CBCF48AF9D1BE775398BD5DE6AA6.tmp' to '../../../../../../Users/kubik/Documents/GitHub/Shadow_OPS/Shadow_OPS/Content/FirstPersonBP/Maps/def_map_BuiltData.uasset'
+[2020.03.11-20.06.00:469][600]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.11-20.06.00:469][600]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/def_map.def_map
+[2020.03.11-20.06.00:469][600]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/def_map_BuiltData.def_map_BuiltData
+[2020.03.11-20.07.18:726][405]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube48)
+[2020.03.11-20.07.18:831][405]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube48)
+[2020.03.11-20.07.18:885][405]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube48)
+[2020.03.11-20.07.46:132][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube57)
+[2020.03.11-20.07.47:126][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube57)
+[2020.03.11-20.07.47:627][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube57)
+[2020.03.11-20.07.48:124][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube57)
+[2020.03.11-20.07.48:542][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube57)
+[2020.03.11-20.07.48:939][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube57)
+[2020.03.11-20.07.49:401][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube57)
+[2020.03.11-20.07.49:790][943]LogEditorViewport: Clicking on Actor (LMB): BPLamp_C (BPLamp10)
+[2020.03.11-20.07.50:149][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube57)
+[2020.03.11-20.07.50:853][994]LogEditorViewport: Clicking on Actor (LMB): BPLamp_C (BPLamp10)
+[2020.03.11-20.08.08:760][943]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/def_map.def_map:PersistentLevel.BPLamp10_46.Box has a component set to zero, which will result in a bad body instance. Scale:X=9.188 Y=0.000 Z=5.250
+[2020.03.11-20.08.09:272][971]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/def_map.def_map:PersistentLevel.BPLamp10_46.Box has a component set to zero, which will result in a bad body instance. Scale:X=9.188 Y=0.000 Z=5.250
+[2020.03.11-20.08.13:219][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube57)
+[2020.03.11-20.08.14:693][239]LogEditorViewport: Clicking on Actor (LMB): BPLamp_C (BPLamp10)
+[2020.03.11-20.08.20:672][532]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/def_map.def_map:PersistentLevel.BPLamp10_46.Box has a component set to zero, which will result in a bad body instance. Scale:X=9.188 Y=0.000 Z=5.250
+[2020.03.11-20.08.45:878][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.03.11-20.08.46:136][852]LogSavePackage: Moving '../../../../../../Users/kubik/Documents/GitHub/Shadow_OPS/Shadow_OPS/Saved/def_map2283B53048CBEDD090E58980C4FF2F3F.tmp' to '../../../../../../Users/kubik/Documents/GitHub/Shadow_OPS/Shadow_OPS/Content/FirstPersonBP/Maps/def_map.umap'
+[2020.03.11-20.08.46:373][852]LogSavePackage: Moving '../../../../../../Users/kubik/Documents/GitHub/Shadow_OPS/Shadow_OPS/Saved/def_map_BuiltData138D57FF4CE493D98E4B30B72ACEBC84.tmp' to '../../../../../../Users/kubik/Documents/GitHub/Shadow_OPS/Shadow_OPS/Content/FirstPersonBP/Maps/def_map_BuiltData.uasset'
+[2020.03.11-20.08.46:398][852]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.11-20.08.46:398][852]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/def_map.def_map
+[2020.03.11-20.08.46:398][852]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/def_map_BuiltData.def_map_BuiltData
