@@ -840,3 +840,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.12-18.16.50:705][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPTeleport" FILE="../../../../../UEProjects/Shadow_OPS/Shadow_OPS/Saved/Autosaves/Game/Blueprints/BPTeleport_Auto1.uasset" SILENT=false AUTOSAVING=true
 [2020.03.12-18.16.52:036][680]LogSavePackage: Moving '../../../../../UEProjects/Shadow_OPS/Shadow_OPS/Saved/BPTeleport_Auto1B87E1C224420FE54D13ACE8406D4C3EF.tmp' to '../../../../../UEProjects/Shadow_OPS/Shadow_OPS/Saved/Autosaves/Game/Blueprints/BPTeleport_Auto1.uasset'
 [2020.03.12-18.16.52:052][680]LogFileHelpers: Auto-saving content packages took 1.397
+[2020.03.12-18.26.45:339][342]BlueprintLog: New page: Compile BPTeleport
+[2020.03.12-18.26.45:636][342]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2020.03.12-18.26.45:905][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPTeleport" FILE="../../../../../UEProjects/Shadow_OPS/Shadow_OPS/Content/Blueprints/BPTeleport.uasset" SILENT=true
+[2020.03.12-18.26.47:103][342]LogSavePackage: Moving '../../../../../UEProjects/Shadow_OPS/Shadow_OPS/Saved/BPTeleport021D5E1C4F457763EA70FABAC177B795.tmp' to '../../../../../UEProjects/Shadow_OPS/Shadow_OPS/Content/Blueprints/BPTeleport.uasset'
+[2020.03.12-18.26.47:172][342]AssetCheck: New page: Asset Save: BPTeleport
+[2020.03.12-18.26.47:172][342]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BPTeleport.BPTeleport
+[2020.03.12-18.26.47:912][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPTeleport" FILE="../../../../../UEProjects/Shadow_OPS/Shadow_OPS/Content/Blueprints/BPTeleport.uasset" SILENT=true
+[2020.03.12-18.26.49:135][418]LogSavePackage: Moving '../../../../../UEProjects/Shadow_OPS/Shadow_OPS/Saved/BPTeleport9A5A2FE84CCB8D4BEFF18084F53E1F8F.tmp' to '../../../../../UEProjects/Shadow_OPS/Shadow_OPS/Content/Blueprints/BPTeleport.uasset'
+[2020.03.12-18.26.49:175][418]AssetCheck: New page: Asset Save: BPTeleport
+[2020.03.12-18.26.49:175][418]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BPTeleport.BPTeleport
+[2020.03.12-18.26.51:375][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/def_map" FILE="../../../../../UEProjects/Shadow_OPS/Shadow_OPS/Content/FirstPersonBP/Maps/def_map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.12-18.26.51:443][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.03.12-18.27.20:751][569]LogSavePackage: Moving '../../../../../UEProjects/Shadow_OPS/Shadow_OPS/Saved/def_mapAB4B1F1E48D48B3F41D798BC2C37D1C0.tmp' to '../../../../../UEProjects/Shadow_OPS/Shadow_OPS/Content/FirstPersonBP/Maps/def_map.umap'
+[2020.03.12-18.27.20:856][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/def_map_BuiltData" FILE="../../../../../UEProjects/Shadow_OPS/Shadow_OPS/Content/FirstPersonBP/Maps/def_map_BuiltData.uasset" SILENT=true
+[2020.03.12-18.27.21:218][569]LogSavePackage: Moving '../../../../../UEProjects/Shadow_OPS/Shadow_OPS/Saved/def_map_BuiltDataC3DFFB5946E6CB03234E579AE280940F.tmp' to '../../../../../UEProjects/Shadow_OPS/Shadow_OPS/Content/FirstPersonBP/Maps/def_map_BuiltData.uasset'
+[2020.03.12-18.27.21:253][569]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.12-18.27.21:253][569]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/def_map.def_map
+[2020.03.12-18.27.21:253][569]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/def_map_BuiltData.def_map_BuiltData
