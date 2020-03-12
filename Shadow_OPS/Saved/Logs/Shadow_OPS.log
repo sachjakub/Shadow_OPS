@@ -3815,3 +3815,14 @@ Script Stack (0 frames):
 [2020.03.12-18.14.10:083][787]LogEditorActor: Deleted Actor: Actor
 [2020.03.12-18.14.10:147][787]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
 [2020.03.12-18.14.10:153][787]LogEditorActor: Deleted 1 Actors (0.100 secs)
+[2020.03.12-18.17.18:096][808]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BPTeleport.BPTeleport
+[2020.03.12-18.17.21:339][952]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-18.17.21:339][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.12-18.17.25:304][153]LogUObjectHash: Compacting FUObjectHashTables data took   7.70ms
+[2020.03.12-18.17.33:041][153]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.12-18.17.35:217][153]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/BPTeleport.BPTeleport
+[2020.03.12-18.17.36:836][153]LogUObjectHash: Compacting FUObjectHashTables data took   7.50ms
+[2020.03.12-18.17.37:356][153]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.03.12-18.17.37:414][153]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.03.12-18.17.37:472][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
